@@ -1,2 +1,4 @@
 # MaSuperCalculatrice
-Pour ce mini projet, j'ai réalisé une calculatrice simple qui évoluera par la suite.
+For this mini project, I made a simple calculator with 4 operations.
+- Language used: HTML, CSS, JS
+- It is version V1 and it will evolve thereafter.
